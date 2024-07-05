@@ -1,0 +1,11 @@
+{
+    "name": "hp/pdftojson",
+    "autoload": {
+        "psr-4": {
+            "Hp\\Pdftojson\\": "src/"
+        }
+    },
+    "require": {
+        "smalot/pdfparser": "^2.10"
+    }
+}
