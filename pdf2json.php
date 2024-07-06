@@ -9,9 +9,9 @@ function parsePdf($filePath) {
 }
 
 // input pdf file
-$input_file_path = './input_file.pdf';
+$input_file_path = './genbot_28_june_04_addis_ababa.pdf';
 //output json file
-$output_file_path = './output_file.json';
+$output_file_path = './test2.json';
 
 
 if (!file_exists($input_file_path)) {
